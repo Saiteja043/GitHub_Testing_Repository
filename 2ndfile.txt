@@ -1,0 +1,2 @@
+Trying the fetch command
+Trying the pull command
